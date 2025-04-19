@@ -1,0 +1,10 @@
+Version: 1.2.0
+Date:    19-02-2023
+=========================== 
+Updated: react latest version (v18.14.0)
+
+
+Version: 1.0.0
+Date:    30 July 2021
+=========================== 
+Initial Release
